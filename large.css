@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-weight: 900;;
+    font-family: monospace;
+}
+h2{
+    font-size: small;
+    color: gray;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-weight: bolder;
+    color: white;
+
+}
+hr{
+    width: 75%;
+    margin: 0px;
+}
+body{
+    color: white;
+}
+textarea{
+    min-width: 95%;
+    min-height: 900px;
+    border-color: cyan;
+    background-color: black;
+    color: white;
+}
+body{
+    color: rgb(0, 0, 0);
+    font-family: Arial;
+    font-weight: 500;
+
+}
